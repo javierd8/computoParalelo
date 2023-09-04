@@ -1,3 +1,3 @@
 # computoParalelo
 
-Madres/Codigos de la materia de computo paralelo
+Codigos de la materia de computo paralelo
