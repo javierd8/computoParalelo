@@ -16,7 +16,7 @@ def race():
     global runners
     runners = ['Huey', 'Dewey', 'Louie']
     threads = []
-    print('START RACE!!!!')
+    print('START RACE!!!! (%s)'%ctime())
     for i in range(num_runners):
         threads.append(Thread(target=runner))
         threads[-1].start()
